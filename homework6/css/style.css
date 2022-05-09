@@ -178,6 +178,7 @@ Line-height: 56px;
 color: #FFFFFF;
 	padding-top: 72.88px;
 	padding-bottom: 97.12px;
+	margin: 0;
 }
 
 .banner-description:after{
@@ -208,6 +209,7 @@ color: #FFFFFF;
 Font-family: Open Sans;
 Font-size: 18px;
 Line-height: 100%;
+margin: 0;
 }
 
 .banner-text_description{
@@ -219,7 +221,9 @@ Font-size: 18px;
 Line-height: 21px;
 Line-height: 100%;
 padding: 3px 0 3px;
+margin: 0;
 margin-bottom: 42px;
+
 }
 
 
