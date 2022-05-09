@@ -1,0 +1,69 @@
+*{
+  box-sizing: border-box;
+  font-weight: 400;
+  max-width: 1510px;
+  margin: 0;
+}
+
+.wrapper{
+	background: #F8EFEF;
+	padding-left: 170px;
+	padding-right: 182px;
+display: flex;
+}
+
+.social-list{
+	background: background: #F8EFEF;
+	width: 470px;
+
+}
+
+.social-list_title{
+	font-family: 'Open Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 24px;
+line-height: 33px;
+	padding: 18px 0 18px 0;
+	color: #333333;
+}
+
+.social-list_description{
+	font-family: 'Raleway';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+padding: 10px 0 18px 0;
+color: #86878B;
+}
+.social-nav{
+	display: inline-flex;
+}
+
+.list{
+	display: flex;
+	list-style-type: none;
+align-items: center;
+width: 688px;
+justify-content: space-between;
+
+
+}
+
+.list-item{
+		width: 70px;
+	height: 70px;
+}
+
+.list__img{
+	max-width: 70px;
+	height: 70px;
+	transition: 0.3s;
+	cursor: pointer;
+}
+
+
+.facebook:hover{
+	color: red;
+}
